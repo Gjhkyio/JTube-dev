@@ -1,7 +1,7 @@
 # JTube
-<h3>Discontinued!</h3>
+<h3>Not Discontinued! :)</h3>
 
-Youtube client based on Invidious API for Java devices with MIDP 2.0 support
+YouTube client based on (real, working) Invidious APIs for Java devices with MIDP 2.0 support
 
 <a href="FAQ.md">FAQ</a><br>
 
